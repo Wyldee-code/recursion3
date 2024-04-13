@@ -13,9 +13,14 @@ flatten([1, [2, [3]]]); // [1, 2, 3]
 ***********************************************************************/
 
 function flatten(arr) {
-  // Your code here 
+  // Initialize an empty array to store the flattened elements
+  // iterate through each element of the input array
+  // recursively call flatten and add the results to the empty array
+  // else if not an arry push it into the empty array
+  //return empty array
+
+
 }
-  
+
 /**************DO NOT MODIFY ANYTHING UNDER THIS LINE*****************/
 module.exports = flatten;
-  
