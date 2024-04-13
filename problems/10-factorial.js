@@ -24,5 +24,7 @@ function factorial(num) {
 factorial(1); // 1
 factorial(3); // 6
 console.log(factorial(5)); // 120
+
+
 /**************DO NOT MODIFY ANYTHING UNDER THIS LINE*****************/
 module.exports = factorial;
